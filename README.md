@@ -1,6 +1,9 @@
-# vue-ajax-project
+# Nenajax - Written in Vue with a lot of Ajax
 
-> A Vue.js project
+I wanted to learn how to deal with Public APIs so I made this project, It makes use of 5 different APIs
+
+# Screenshot
+<img src="https://i.imgur.com/nNtyfAP.png">
 
 ## Build Setup
 
@@ -14,5 +17,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
